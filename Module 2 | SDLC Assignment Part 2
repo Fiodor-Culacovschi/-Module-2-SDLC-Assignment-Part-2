@@ -6,7 +6,7 @@
  * To run this program on other PC please download the library.txt file.
  * Create a userCollection.txt file,
  * this is where items will be added and removed by user from personal book collection.
- * Change pathways, run the program.
+ * Copy code, change pathways, run the program.
  * Program menu is displayed.
  * Program can read and display data from a file, file stored on a local machine.
  * User can display the data from a file using menu and interact with.
